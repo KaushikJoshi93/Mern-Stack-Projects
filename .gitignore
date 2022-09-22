@@ -36,3 +36,4 @@ yarn-error.log*
 
 #Ignore package-lock json file
 package-lock.json
+firebase.js
